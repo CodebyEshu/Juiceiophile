@@ -13,3 +13,6 @@ Navigation Menu: A clean top navbar for seamless browsing with sections like Hom
 Call to Action: A styled "Shop online" button encourages users to engage in purchases.
 
 Responsive Layout: Designed to adapt to various screen sizes using modern CSS techniques.
+
+![image](https://github.com/user-attachments/assets/28573cd0-d59b-490c-a4ef-3ccdd0e1be81)
+
